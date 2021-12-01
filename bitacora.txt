@@ -1,11 +1,15 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):  Ortega Zorrilla, Jesus              %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
 
+1	git clone url 			La url es: https://github.com/latacita/testGit2021jesusortegazorrilla.git
+2	git branch Paco
+3	git branch Lola
+4	git checkout Paco
 13	git checkout master
 14					La fusion se realizaria por fast-forward
