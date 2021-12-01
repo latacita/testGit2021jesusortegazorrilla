@@ -13,3 +13,9 @@
 4	git checkout Paco
 13	git checkout master
 14					La fusion se realizaria por fast-forward
+
+16	git add bitacora.txt
+17	git commit -m "Paso 17"
+18	git merge Paco			Salieron conflictos y tuve que resolverlos y hacer add y commit de nuevo.
+					El commit correspondiente se llama Paso 18 conflicto resuelto.
+19	------
