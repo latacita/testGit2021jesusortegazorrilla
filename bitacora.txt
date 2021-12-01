@@ -31,3 +31,10 @@
 21	git commit -m "Paso 21"
 22	git checkout Lola
 23	git stash pop
+
+24	Cuando ha habido conflictos he tenido que resolverlos manualmente porque ha fallado el automerge.
+25	git add bitacora.txt
+26	git commit -m "Paso 26"
+27	git checkout master
+28	git merge Lola			Salieron conflictos y tuve que resolverlos y hacer add y commit de nuevo.
+					El commit correspondiente se llama "Paso 28 Conflicto Resuelto"
